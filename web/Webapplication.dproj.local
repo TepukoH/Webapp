@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.575,=F:\programs\Delphi\projects\Project2\ModelSupport_Webapplication\UserSessionUnit\default.txaPackage</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.965,=F:\programs\Delphi\projects\Project2\ModelSupport_Webapplication\Webapp\default.txvpck</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.347,=F:\programs\Delphi\projects\Project2\Webapp.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.274,F:\programs\Delphi\projects\Project2\Webapp.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.320,=F:\programs\Delphi\projects\Project2\ModelSupport_Webapplication\Webapplication\default.txvpck</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.869,=F:\programs\Delphi\projects\Project2\ModelSupport_Webapplication\ServerController\default.txvpck</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.501,=F:\programs\Delphi\projects\Project2\ModelSupport_Webapplication\Webapp\default.txaPackage</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.546,=F:\programs\Delphi\projects\Project2\ModelSupport_Webapplication\default.txaPackage</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.610,=F:\programs\Delphi\projects\Project2\ModelSupport_Webapplication\Webapplication\default.txaPackage</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.258,=F:\programs\Delphi\projects\Project2\ServerController.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.064,F:\programs\Delphi\projects\Project2\Unit1.dfm=F:\programs\Delphi\projects\Project2\Webapp.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.449,=F:\programs\Delphi\projects\Project2\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.064,F:\programs\Delphi\projects\Project2\Unit1.pas=F:\programs\Delphi\projects\Project2\Webapp.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.521,=F:\programs\Delphi\projects\Project2\ModelSupport_Webapplication\ServerController\default.txaPackage</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.360,F:\programs\Delphi\projects\Project2\Project2.dproj=C:\Users\andre\Desktop\Synergy\task 4 web\Webapplication.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.684,=F:\programs\Delphi\projects\Project2\ModelSupport_Webapplication\default.txvpck</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.752,=F:\programs\Delphi\projects\Project2\ModelSupport_Webapplication\UserSessionUnit\default.txvpck</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.346,=F:\programs\Delphi\projects\Project2\UserSessionUnit.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="F:"/>
+    <File Path="F:\programs"/>
+    <File Path="F:\programs\Delphi"/>
+    <File Path="F:\programs\Delphi\projects"/>
+    <File Path="F:\programs\Delphi\projects\Project2"/>
+    <File Path="F:\programs\Delphi\projects\Project2\ModelSupport_Webapplication"/>
+    <File Path="F:\programs\Delphi\projects\Project2\ModelSupport_Webapplication\ServerController"/>
+    <File Path="F:\programs\Delphi\projects\Project2\ModelSupport_Webapplication\ServerController\default.txvpck"/>
+    <File Path="F:\programs\Delphi\projects\Project2\ModelSupport_Webapplication\ServerController\default.txaPackage"/>
+    <File Path="F:\programs\Delphi\projects\Project2\ModelSupport_Webapplication\UserSessionUnit"/>
+    <File Path="F:\programs\Delphi\projects\Project2\ModelSupport_Webapplication\UserSessionUnit\default.txvpck"/>
+    <File Path="F:\programs\Delphi\projects\Project2\ModelSupport_Webapplication\UserSessionUnit\default.txaPackage"/>
+    <File Path="F:\programs\Delphi\projects\Project2\ModelSupport_Webapplication\Webapp"/>
+    <File Path="F:\programs\Delphi\projects\Project2\ModelSupport_Webapplication\Webapp\default.txvpck"/>
+    <File Path="F:\programs\Delphi\projects\Project2\ModelSupport_Webapplication\Webapp\default.txaPackage"/>
+    <File Path="F:\programs\Delphi\projects\Project2\ModelSupport_Webapplication\Webapplication"/>
+    <File Path="F:\programs\Delphi\projects\Project2\ModelSupport_Webapplication\Webapplication\default.txvpck"/>
+    <File Path="F:\programs\Delphi\projects\Project2\ModelSupport_Webapplication\Webapplication\default.txaPackage"/>
+    <File Path="F:\programs\Delphi\projects\Project2\ModelSupport_Webapplication\default.txvpck"/>
+    <File Path="F:\programs\Delphi\projects\Project2\ModelSupport_Webapplication\default.txaPackage"/>
+    <File Path="F:\programs\Delphi\projects\Project2\Webapp.pas"/>
+    <File Path="F:\programs\Delphi\projects\Project2\Webapp.dfm"/>
+    <File Path="F:\programs\Delphi\projects\Project2\ServerController.pas"/>
+    <File Path="F:\programs\Delphi\projects\Project2\ServerController.dfm"/>
+    <File Path="F:\programs\Delphi\projects\Project2\UserSessionUnit.pas"/>
+    <File Path="F:\programs\Delphi\projects\Project2\UserSessionUnit.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
